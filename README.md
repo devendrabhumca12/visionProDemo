@@ -16,4 +16,4 @@ VisionPro Demo: Explore the power of VisionPro in iOS with this compact project 
 Download the app or click the video link to see the iOS demo.
 
 ## Contact
-If you have any questions or feedback, feel free to contact me at **devendra.bhumca12@gmail.com** or [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile-url](https://www.linkedin.com/in/devendra-agnihotri-5b0617a8/)https://www.linkedin.com/in/devendra-agnihotri-5b0617a8/).
+If you have any questions or feedback, feel free to contact me at **devendra.bhumca12@gmail.com** or [LinkedIn](https://www.linkedin.com/in/devendra-agnihotri-5b0617a8/)
