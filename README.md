@@ -1,7 +1,7 @@
 # VisionProDemo
 VisionPro Demo: Explore the power of VisionPro in iOS with this compact project written in swiftUI.
 
-[Watch the iOS simulator video]([video-url](https://drive.google.com/file/d/1R9XDdBRzrZLMsQ8cgonZl8qFAo3O5eca/view?usp=sharing))
+[Watch the iOS simulator video](https://drive.google.com/file/d/1R9XDdBRzrZLMsQ8cgonZl8qFAo3O5eca/view?usp=sharing)
 
 ## Features
 - You can change the background layout from the simulator.
